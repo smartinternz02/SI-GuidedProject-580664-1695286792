@@ -1,6 +1,6 @@
 # day-day Journal
 
---------------------------Week-1--------------------------
+--------------------------Week-1--------------------------<br>
 <22 August> 10 Hackers and their accomplishments. <br>
 <23 August> what vulnerabilities are available for a perticular port.<br>
 <24 August> OWASP top 5 vulnerabilities and test it on a website.<br>
