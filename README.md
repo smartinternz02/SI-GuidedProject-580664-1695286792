@@ -5,9 +5,9 @@
 <23 August> what vulnerabilities are available for a perticular port.<br>
 <24 August> OWASP top 5 vulnerabilities and test it on a website.<br>
 <25 August> How Servers Work understanding web app attack what is a attack? Plot vulnerabilities other than OWASP top 10<br>
-
 <26-27 Aug> Exploit OWASP top 10<br>
 ----------------------------------------------------
+
 --------------------------Week-2--------------------------
 <28 August> 10 web Server Attacks<br>
 <29 August> 
