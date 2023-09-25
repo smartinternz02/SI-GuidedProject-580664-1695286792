@@ -1,4 +1,4 @@
-**day-day Journal**
+<h2>day-day journal</h2>
 
 --------------------------Week-1--------------------------<br>
 <22 August> 10 Hackers and their accomplishments. <br>
