@@ -8,7 +8,7 @@
 <26-27 Aug> Exploit OWASP top 10<br>
 ----------------------------------------------------
 
---------------------------Week-2--------------------------
+--------------------------Week-2--------------------------<br>
 <28 August> 10 web Server Attacks<br>
 <29 August> 
 Inventory and Control of Hardware Assets
@@ -38,8 +38,8 @@ Penetration Tests and Red Team Exercises<br>
 <1 September> Passive Reconnisence of a website without pinging it. What is OSNIT framework?<br>
 
 --<2-3 September> Use 10 tools on kali available in the menu section.<br>
-----------------------------------------------------
---------------------------Week-3--------------------------
+----------------------------------------------------<br>
+--------------------------Week-3--------------------------<br>
 <4 September> Scan any website to check the vulnerabilities in the website using nessus and make a report on it<br>
 <5 September> Explore cheatsheet commands(Go through Nmap) and memorize the port nos<br>
 
@@ -51,8 +51,8 @@ sqlmap -u http://testphp.vulnweb.com/artists.php?artist=2 -D acuart -T users -C 
 
 
 *--<9-10 September> 
-----------------------------------------------------
---------------------------Week-4--------------------------
+----------------------------------------------------<br>
+--------------------------Week-4--------------------------<br>
 <11 September> Doccumntation on What is Syn and SEIM.<br>
 <12 September> Doccumentation on What is wincollect and StandAlone winollect<br>
 <13 September> pick 4-5 logs from ibm qradar and doccument business impact. What is Local Security Policy in windows.<br>
