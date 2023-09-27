@@ -1,0 +1,24 @@
+> install pip
+> create venv
+> use pip to install following:
+ - requests
+ - openai
+> get openai API key: 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
+> import openai
+> create a variable to store openai API key
+> install apache2 in kali: <sudo apt install apache2>
+> start apache2 : sudo /etc/init.d/apache2 start
+> access log of appache2 can be found in /var/log/apache2
+> use this command to view the log file in live mode. tail -f access.log
+
+> log file readersudo 
+filePath = "/var/log/apache2/access.log"
+
+file = open(filePath, 'r')
+for i in file:
+        print(i, '------------------------------')
+
+
+file.close()
+
+> wsl distro
