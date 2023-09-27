@@ -47,4 +47,5 @@ sqlmap -u http://testphp.vulnweb.com/artists.php?artist=2 -D acuart -T users -C 
 <13 September> pick 4-5 logs from ibm qradar and doccument business impact. What is Local Security Policy in windows.<br>
 <14 September> 3 Vulnerabilities exploitaion on metasploit<br>
 <15 September> Doccumentation on burpsuit<br>
+<16 - 27 September> Mini project plan and building. 2 projects Built in count 
 
