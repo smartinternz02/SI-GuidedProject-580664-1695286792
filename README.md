@@ -42,7 +42,7 @@ Penetration Tests and Red Team Exercises<br>
 sqlmap -u http://testphp.vulnweb.com/artists.php?artist=2 -D acuart -T users -C pass --dump  [vulweb using sqlmap]<br>
 <9-10 September> <br>
 --------------------------Week-4--------------------------<br>
-<11 September> Doccumntation on What is Syn and SEIM.<br>
+<11 September> Doccumntation on What is SOC and SEIM.<br>
 <12 September> Doccumentation on What is wincollect and StandAlone winollect<br>
 <13 September> pick 4-5 logs from ibm qradar and doccument business impact. What is Local Security Policy in windows.<br>
 <14 September> 3 Vulnerabilities exploitaion on metasploit<br>
